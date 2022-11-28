@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am a Devops Engineer, living in Auckland, New Zealand. I am currently working at [Rocket Lab](https://rocketlabusa.com), working on Kubernetes/Automation/Config Management.
 
 - 🔭 **I’m currently working on ...** A multiplayer javascript-based strategy game, called Galaxy War! I'm also working on my fully automated, infra-as-code based Homelab and home-automation system.
