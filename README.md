@@ -1,4 +1,4 @@
-I am a DevOps Engineer, living in Zürich, Switzerland. I am currently working at [EthonAI](https://ethon.ai).
+I am a DevOps Engineer, living in Zürich, Switzerland.
 
 Most of my stuff is in private repos - for example:
 
